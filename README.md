@@ -60,7 +60,7 @@ git clone https://github.com/Angelinamurdock/deep-learning-challenge.git
 - Open the `AlphabetSoupCharity_Optimization.ipynb` Jupyter Notebook File to interact with the project. 
 
 **3. View the analysis:** 
-- Open the `alphabet-soup-funding-analysis.md` file.
+- Open the `README.md` file.
 
 **Requirements include:**
 - tensorflow
