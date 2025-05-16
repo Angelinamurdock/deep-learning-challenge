@@ -75,10 +75,10 @@ To achieve this goal, we implemented a **deep neural network** using **TensorFlo
    - Best achieved: Accuracy = 72.71%
 
 ## Summary
-This project aimed to build a predictive model that could help Alphabet Soup identify funding applicants who are most likely to succeed. A deep learning model was developed and tested using a large dataset of past applicants. While the model performed reasonably well—with a best accuracy of 72.71%—it fell short of the 75% target. Multiple efforts were made to improve the model, including modifying the network structure and adjusting the data, but improvements were limited. This suggests that a deep neural network may not be the most effective solution for this particular dataset.
+A deep learning model was developed to build a predictive model that could help Alphabet Soup identify funding applicants who are most likely to succeed. While the model performed reasonably well—with a best accuracy of 72.71%—it fell short of the 75% target. Multiple efforts were made to improve the model, including modifying the network structure and adjusting the data, but improvements were limited. This suggests that a deep neural network may not be the most effective solution for this particular dataset.
 
 ### **Recommendation:**
-To improve results, I recommend switching to a tree-based machine learning model, such as Random Forest or XGBoost. These models are better suited for structured data like this, where inputs come from well-defined categories and numeric values. They tend to perform better with fewer tuning requirements, offer more interpretability, and can often achieve higher accuracy in classification problems like this one. Trying one of these models may help Alphabet Soup make more accurate and confident funding decisions.
+To improve results, I recommend switching to a tree-based machine learning model, such as Random Forest. These models are better suited for structured data like this, where inputs come from well-defined categories and numeric values. They tend to perform better with fewer tuning requirements, offer more interpretability, and can often achieve higher accuracy in classification problems like this one.
 
 ## Installation
 **1. Clone the Repository:**
